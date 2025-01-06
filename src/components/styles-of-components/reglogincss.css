@@ -1,0 +1,90 @@
+.containerAdminInfo {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  padding-top: 120px;
+}
+
+.containerInfoAdmin {
+  width: 300px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.containerInfoAdmin img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.containerInfoAdmin h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.containerInfoAdmin p {
+  font-size: 16px;
+  color: #555;
+}
+
+.buttonSignOut, .buttonLogIn {
+  width: 150px;
+  height: 50px;
+  background-color: red;
+  color: white;
+  text-align: center;
+  line-height: 50px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.allUserAppoiments {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.allUserAppoiments .usersId{
+  padding: 15px;
+  border: 1px solid #ddd;
+  margin-bottom: 15px;
+  border-radius: 10px;
+}
+
+.allUserAppoiments .userAppoInfo{
+  padding: 15px;
+  border: 1px solid #ddd;
+  margin-bottom: 15px;
+  border-radius: 10px;
+}
+
+.allUserAppoiments img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.allUserAppoiments h3 {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+.allUserAppoiments p {
+  font-size: 14px;
+  color: #666;
+  margin: 3px 0;
+}
+.buttonOfCancellAppo {
+  width: 100px;
+  height: 30px;
+  background-color: red;
+  color: white;
+  text-align: center;
+  line-height: 30px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 10px;
+}
