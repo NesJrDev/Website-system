@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Website-system/static/css/main.e2844b4c.css",
-    "main.js": "/Website-system/static/js/main.abb08729.js",
+    "main.css": "/Website-system/static/css/main.bb447bb1.css",
+    "main.js": "/Website-system/static/js/main.ab0c97fc.js",
     "static/js/156.b114fe0c.chunk.js": "/Website-system/static/js/156.b114fe0c.chunk.js",
     "static/media/app_user.png": "/Website-system/static/media/app_user.75ecfa8be6d6b5718df5.png",
     "static/media/vecteezy_google-logo-on-transparent-white-background_13948549.jpg": "/Website-system/static/media/vecteezy_google-logo-on-transparent-white-background_13948549.d145e7cb786dee4a75cf.jpg",
     "static/media/blank-profile-picture-973460_640.png": "/Website-system/static/media/blank-profile-picture-973460_640.afe07f57979e2bba2183.png",
     "index.html": "/Website-system/index.html",
-    "main.e2844b4c.css.map": "/Website-system/static/css/main.e2844b4c.css.map",
-    "main.abb08729.js.map": "/Website-system/static/js/main.abb08729.js.map",
+    "main.bb447bb1.css.map": "/Website-system/static/css/main.bb447bb1.css.map",
+    "main.ab0c97fc.js.map": "/Website-system/static/js/main.ab0c97fc.js.map",
     "156.b114fe0c.chunk.js.map": "/Website-system/static/js/156.b114fe0c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2844b4c.css",
-    "static/js/main.abb08729.js"
+    "static/css/main.bb447bb1.css",
+    "static/js/main.ab0c97fc.js"
   ]
 }
