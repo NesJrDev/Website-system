@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Website-system/static/css/main.d0573ae8.css",
-    "main.js": "/Website-system/static/js/main.a4ffbfbe.js",
+    "main.js": "/Website-system/static/js/main.f150eccc.js",
     "static/js/156.b114fe0c.chunk.js": "/Website-system/static/js/156.b114fe0c.chunk.js",
     "static/media/app_user.png": "/Website-system/static/media/app_user.75ecfa8be6d6b5718df5.png",
     "static/media/vecteezy_google-logo-on-transparent-white-background_13948549.jpg": "/Website-system/static/media/vecteezy_google-logo-on-transparent-white-background_13948549.d145e7cb786dee4a75cf.jpg",
@@ -10,11 +10,11 @@
     "static/media/admin-icon.svg": "/Website-system/static/media/admin-icon.8ca7f30668ea2fb8197c4f9857df2c29.svg",
     "index.html": "/Website-system/index.html",
     "main.d0573ae8.css.map": "/Website-system/static/css/main.d0573ae8.css.map",
-    "main.a4ffbfbe.js.map": "/Website-system/static/js/main.a4ffbfbe.js.map",
+    "main.f150eccc.js.map": "/Website-system/static/js/main.f150eccc.js.map",
     "156.b114fe0c.chunk.js.map": "/Website-system/static/js/156.b114fe0c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0573ae8.css",
-    "static/js/main.a4ffbfbe.js"
+    "static/js/main.f150eccc.js"
   ]
 }
